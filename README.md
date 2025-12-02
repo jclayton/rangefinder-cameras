@@ -5,6 +5,8 @@
 Website about rangefinder cameras
 ---------------------------------
 
+![Rangefinder camera icon](images/camera-icon.svg)
+
 This is a demonstration for education.
 
 [New York University](https://www.nyu.edu/)
@@ -18,7 +20,5 @@ This is an unordered list.
 - Item
 - Item
 - Item
-
-![Rangefinder camera icon](images/camera-icon.svg)
 
 Markdown reference for [Introduction to Web Design](https://cs.nyu.edu/courses/fall25/CSCI-UA.0004-004/) :books: :computer: :surfer:
